@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   -Unity C#
   -HTML
+  <br>
   <b>Software</b>
   <br>
   -Unity Engine<br>
@@ -13,6 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   -Mixamo
   <br><br>
   <a href="https://www.linkedin.com/in/tomislav-markovic-71b0aaa2/">View My LinkedIn Profile</a> 
+  <br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
