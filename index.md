@@ -12,7 +12,7 @@ This game was made for Android devices in Unity Game Engine.
 In that project I have worked as programmer that had job to set movements of figurines and the way I have done it is I have put empty game objects as waypoints and number you got in dice it would add to waypoint number.
 <br>
 
----
+----------------
 <br>
 [Medieval Clicker](https://thedynamitepriest.itch.io/medieval-clicker)
 <img src="https://img.itch.zone/aW1nLzU2MTA4NDIuanBn/original/iycZaK.jpg"/>
@@ -22,7 +22,7 @@ This game was made completely by me and most stuff I have done there is random e
 There are over 1000 lines of code in that game that generate random events that where done with Corutines and coin flip if that event would happen.
 <br>
 
----
+---------------
 
 ### Projects that need more work
 <br>
