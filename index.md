@@ -15,7 +15,7 @@ In that project I have worked as programmer that had job to set movements of fig
 [Medieval Clicker](https://thedynamitepriest.itch.io/medieval-clicker)
 <img src="https://img.itch.zone/aW1nLzU2MTA4NDIuanBn/original/iycZaK.jpg"/>
 <br>
-Medieval Clicker is clicker game that was made for PC in Unity Game Engine.
+Medieval Clicker is clicker game that was made for PC in Unity Game Engine in period of 5 days.
 This game was made completely by me and most stuff I have done there is random events.
 There are over 1000 lines of code in that game that generate random events that where done with Corutines and coin flip if that event would happen.
 
@@ -25,16 +25,16 @@ There are over 1000 lines of code in that game that generate random events that 
 
 - [Ru(i)n The World](https://thedynamitepriest.itch.io/ruin-the-world)
  <br>
- This Endless runner game was made in game jam in Unity course in Novska, Croatia.
+ This Endless runner game was made in game jam with theme "Save yourself not the world" in Unity course in Novska, Croatia in period of 14 days.
  Here you play as woman that is running from end of the world and you have meter counter that tells you how far have you run to survive.
  In this game I was Team Leader and Level Designer.
  As team leader I have organized 2 people to program movement of main character as well as end game event.
  And as Level Designer I have put several prefabs that randomly generate infront of main character and the way I have done that is with empty game objects. 
- First game object was infront of the prefab and second one in the end of prefab and where last one ends, first empty game object instanciate in that position.
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+ First game object was infront of the prefab and second one in the end of prefab and where last one ends, first empty game object instanciate in that position.<br>
+- [Fake World](https://thedynamitepriest.itch.io/fake-world)
+ <br>
+ This game was made as part of game jam with theme "Glitch" in Unity Engine in Novska, Croatia in period of 3 days.
+ In this project I was Team Leader and my job was to coordinate programmer and level designer to make this puzzle game with many glitches and to use glitches on different    levels.
 
 ---
 
