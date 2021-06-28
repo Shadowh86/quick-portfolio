@@ -39,7 +39,8 @@ There are over 1000 lines of code in that game that generate random events that 
 ---
 
 ### Accomplishments
-[Forklift Certificate VR](https://scontent-muc2-1.xx.fbcdn.net/v/t1.6435-9/202407143_4640067209340261_7310909569210768718_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeE8RTSMnubWDao0jwTdbqWTRoe5mtLm8qZGh7ma0ubyprGg9nAwGXW_WzNX6ifgV3M&_nc_ohc=Wl5x4O3vhvEAX-BbFb9&_nc_ht=scontent-muc2-1.xx&oh=b787519611b7f57ece7585198855634a&oe=60DEF817)
+[Forklift Certificate VR]
+<img src="https://scontent-muc2-1.xx.fbcdn.net/v/t1.6435-9/202407143_4640067209340261_7310909569210768718_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeE8RTSMnubWDao0jwTdbqWTRoe5mtLm8qZGh7ma0ubyprGg9nAwGXW_WzNX6ifgV3M&_nc_ohc=Wl5x4O3vhvEAX-BbFb9&_nc_ht=scontent-muc2-1.xx&oh=b787519611b7f57ece7585198855634a&oe=60DEF81"/>
 <br>
 This VR Education was made as part of VR Hakathon Game jam with theme "VR Education in construction, logistic and tourism".
 On this VR I have worked with Andrej Lukic where we have won first place as well as additional prize for use of technologies that were avaliable.
