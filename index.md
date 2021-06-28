@@ -23,7 +23,14 @@ There are over 1000 lines of code in that game that generate random events that 
 
 ### Projects that need more work
 
-- [Project 1 Title](http://example.com/)
+- [Ru(i)n The World](https://thedynamitepriest.itch.io/ruin-the-world)
+ <br>
+ This Endless runner game was made in game jam in Unity course in Novska, Croatia.
+ Here you play as woman that is running from end of the world and you have meter counter that tells you how far have you run to survive.
+ In this game I was Team Leader and Level Designer.
+ As team leader I have organized 2 people to program movement of main character as well as end game event.
+ And as Level Designer I have put several prefabs that randomly generate infront of main character and the way I have done that is with empty game objects. 
+ First game object was infront of the prefab and second one in the end of prefab and where last one ends, first empty game object instanciate in that position.
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
