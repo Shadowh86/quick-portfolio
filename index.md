@@ -39,7 +39,7 @@ There are over 1000 lines of code in that game that generate random events that 
 ---
 
 ### Accomplishments
-[Forklift Certificate VR](https://www.facebook.com/gamechuckdev/posts/4640062259340756)
+[Forklift Certificate VR](https://www.facebook.com/gamechuckdev/posts/4640062259340756)<br>
 <img src="https://scontent-muc2-1.xx.fbcdn.net/v/t1.6435-9/202407143_4640067209340261_7310909569210768718_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeE8RTSMnubWDao0jwTdbqWTRoe5mtLm8qZGh7ma0ubyprGg9nAwGXW_WzNX6ifgV3M&_nc_ohc=Wl5x4O3vhvEAX-BbFb9&_nc_ht=scontent-muc2-1.xx&oh=b787519611b7f57ece7585198855634a&oe=60DEF817"/>
 <br>
 This VR Education was made as part of VR Hakathon Game jam with theme "VR Education in construction, logistic and tourism".
