@@ -13,7 +13,7 @@ In that project I have worked as programmer that had job to set movements of fig
 <br>
 
 ---
-
+<br>
 [Medieval Clicker](https://thedynamitepriest.itch.io/medieval-clicker)
 <img src="https://img.itch.zone/aW1nLzU2MTA4NDIuanBn/original/iycZaK.jpg"/>
 <br>
@@ -25,7 +25,7 @@ There are over 1000 lines of code in that game that generate random events that 
 ---
 
 ### Projects that need more work
-
+<br>
 - [Ru(i)n The World](https://thedynamitepriest.itch.io/ruin-the-world)
  <br>
  This Endless runner game was made in game jam with theme "Save yourself not the world" in Unity course in Novska, Croatia in period of 14 days.
@@ -42,6 +42,7 @@ There are over 1000 lines of code in that game that generate random events that 
 ---
 
 ### Accomplishments
+<br>
 [Forklift Certificate VR](https://www.facebook.com/gamechuckdev/posts/4640062259340756)
 <img src="https://scontent-muc2-1.xx.fbcdn.net/v/t1.6435-9/202407143_4640067209340261_7310909569210768718_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeE8RTSMnubWDao0jwTdbqWTRoe5mtLm8qZGh7ma0ubyprGg9nAwGXW_WzNX6ifgV3M&_nc_ohc=Wl5x4O3vhvEAX-BbFb9&_nc_ht=scontent-muc2-1.xx&oh=b787519611b7f57ece7585198855634a&oe=60DEF817"/>
 <br>
