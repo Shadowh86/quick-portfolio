@@ -54,5 +54,4 @@ On this VR I have worked with Andrej Lukic where we have won first place as well
 We worked on programming input system for steering wheel and VR glasses in Unity Game engine.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
