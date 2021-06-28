@@ -12,7 +12,7 @@ This game was made for Android devices in Unity Game Engine.
 In that project I have worked as programmer that had job to set movements of figurines and the way I have done it is I have put empty game objects as waypoints and number you got in dice it would add to waypoint number.
 <br>
 
-----------
+---
 
 [Medieval Clicker](https://thedynamitepriest.itch.io/medieval-clicker)
 <img src="https://img.itch.zone/aW1nLzU2MTA4NDIuanBn/original/iycZaK.jpg"/>
@@ -22,7 +22,7 @@ This game was made completely by me and most stuff I have done there is random e
 There are over 1000 lines of code in that game that generate random events that where done with Corutines and coin flip if that event would happen.
 <br>
 
------------------
+---
 
 ### Projects that need more work
 
@@ -37,7 +37,7 @@ There are over 1000 lines of code in that game that generate random events that 
 - [Fake World](https://thedynamitepriest.itch.io/fake-world)
  <br>
  This game was made as part of game jam with theme "Glitch" in Unity Engine in Novska, Croatia in period of 3 days.
- In this project I was Team Leader and my job was to coordinate programmer and level designer to make this puzzle game with many glitches and to use glitches on different    levels.
+ In this project I was Team Leader and my job was to coordinate programmer and level designer to make this puzzle game with many glitches and to use glitches on different    levels.<br>
 
 ---
 
