@@ -1,6 +1,9 @@
-title: John Doe # your name (or website title) here
+title: Tomislav Markovic # your name (or website title) here
 logo: "/images/headshot_Crop.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <b>Personal Info</b><br>
+  DOB: 16 of November, 1986 <br>
+  
   <b>Programming</b>
   <br>
   -Unity C#<br>
