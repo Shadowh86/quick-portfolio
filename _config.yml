@@ -2,7 +2,7 @@ title: Tomislav Markovic # your name (or website title) here
 logo: "/images/headshot_Crop.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Personal Info</b><br>
-  DOB: 16 of November, 1986 <br>
+  Birth: 16 of November, 1986 <br>
   Email: markovictomislav1@gmail.com
   Phone Number: +385922273710
   <br>
@@ -19,6 +19,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   -Fuse<br>
   -Mixamo
   <br>
+  Video Editing<br>
+  Movie Studio 17.o Platinum<br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
