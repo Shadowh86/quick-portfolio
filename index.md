@@ -49,7 +49,8 @@ There are over 1000 lines of code in that game that generate random events that 
 [Forklift Certificate VR](https://www.facebook.com/gamechuckdev/posts/4640062259340756)
 <img src="https://scontent-muc2-1.xx.fbcdn.net/v/t1.6435-9/202407143_4640067209340261_7310909569210768718_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeE8RTSMnubWDao0jwTdbqWTRoe5mtLm8qZGh7ma0ubyprGg9nAwGXW_WzNX6ifgV3M&_nc_ohc=Wl5x4O3vhvEAX-BbFb9&_nc_ht=scontent-muc2-1.xx&oh=b787519611b7f57ece7585198855634a&oe=60DEF817"/>
 <br><br>
-This VR Education was made as part of VR Hakathon Game jam with theme "VR Education in construction, logistic and tourism" and 48 hours to finish.
+This VR Education was made as part of VR Hakathon Game jam with theme "VR Education in construction, logistic and tourism" that was organized by <a href="
+https://manpower.hr/news/new-post-1623069771"> Manpower </a> and <a href="https://game-chuck.com/">Gamechuck</a> with 48 hours to finish.
 On this VR I have worked with Andrej Lukic where we have won first place as well as additional prize for use of technologies that were avaliable.
 We worked on programming input system for steering wheel and VR glasses in Unity Game engine.
 
