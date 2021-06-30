@@ -19,7 +19,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   -Fuse<br>
   -Mixamo
   <br>
-  Video Editing<br>
+  <b>Video Editing</b>
+  <br>
   Movie Studio 17.o Platinum<br>
   
 theme: jekyll-theme-minimal
