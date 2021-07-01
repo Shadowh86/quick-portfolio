@@ -32,6 +32,7 @@ February, 2021 - August, 2021<br>
 Unity Engine game development<br>
 Learning Unity C# programming language, basic level design, game design, buisness aspect of game development as well as organizing various events such as Reboot infogamer
 <br>
+
 ---
 
 ### Prizes
