@@ -3,7 +3,7 @@
 
 ---
 
-### Skills
+## Skills
 
 <b>Programming</b>
   <br>
@@ -28,7 +28,7 @@
   
   ---
 
-### Previous work
+## Previous work
 
 May, 2019 – November, 2019<br>
 Help desk operater / SPAN JSC, Zagreb, Croatia<br>
