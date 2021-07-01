@@ -32,10 +32,10 @@ This game was made completely by me and most of the gameplay elements I have inc
  <br><br>
  This Endless runner game was made for a game jam that was themed "Save yourself not the world", in Unity course in Novska, Croatia, over the period of 14 days.
  In this game you play as a woman who is running from the end of the world, with a meter counter that tells you how far you have already run to survive.
- For this game I was Team Leader and Level Designer.
- As team leader I have organized 2 people to program movement of main character as well as end game event.
- Also, as Level Designer I have put several prefabs that randomly generate in front of main character, using empty game objects. 
- First game object was in front of the prefab and second one in the end of prefab, resulting in the effect where the last empty game object ends, first empty game object instanciates in that position.<br>
+ For this game I was a Team Leader and Level Designer.
+ As team leader I have organized 2 people to program movement of the main character as well as end game event.
+ Also, as Level Designer I have put several prefabs that randomly generate in front of the main character, using empty game objects. 
+ First game object was placed in front of the prefab and second one in the end of the prefab, resulting in the effect that where the last empty game object ends, first empty game object instanciates.<br>
 - [Fake World](https://thedynamitepriest.itch.io/fake-world)
  <img src="https://img.itch.zone/aW1hZ2UvOTU4MTQyLzU0MzMyODIuanBn/original/f4i%2BWk.jpg"/>
  <br><br>
