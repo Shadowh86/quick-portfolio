@@ -4,20 +4,24 @@
 
 <b>Programming</b>
   <br>
-  -Unity C#&#9733;
+  -Unity C# &#9733;&#9733;&#9733;&#9733;
   <br>
-  -HTML
+  -HTML &#9733;&#9733;&#9733;
   <br>
   <b>Software</b>
   <br>
-  -Unity Engine<br>
-  -Makehuman<br>
-  -Fuse<br>
-  -Mixamo
+  -Unity Engine &#9733;&#9733;&#9733;
+  <br>
+  -Makehuman &#9733;&#9733;&#9733;
+  <br>
+  -Fuse &#9733;&#9733;
+  <br>
+  -Mixamo&#9733;&#9733;&#9733;
   <br>
   <b>Video Editing</b>
   <br>
-  Movie Studio 17.o Platinum<br>
+  Movie Studio 17.o Platinum &#9733;&#9733;&#9733;&#9733;
+  <br>
   
   ---
 
