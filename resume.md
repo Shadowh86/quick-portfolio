@@ -1,3 +1,7 @@
+### Skills
+
+Unity C# 
+
 ### Previous work
 
 May, 2019 – November, 2019<br>
