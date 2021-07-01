@@ -1,4 +1,7 @@
 # Resume
+<br>
+
+---
 
 ### Skills
 
