@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Birth: 16 of November, 1986 <br>
   Email: markovictomislav1@gmail.com
   Phone Number: +385922273710
-  <br>
+  <br><br>
   <a href="https://shadowh86.github.io/resume">Resume</a>
   <br>
 theme: jekyll-theme-minimal
