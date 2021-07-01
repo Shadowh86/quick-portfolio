@@ -1,6 +1,20 @@
 ### Skills
 
-Unity C# 
+<b>Programming</b>
+  <br>
+  -Unity C#<br>
+  -HTML
+  <br>
+  <b>Software</b>
+  <br>
+  -Unity Engine<br>
+  -Makehuman<br>
+  -Fuse<br>
+  -Mixamo
+  <br>
+  <b>Video Editing</b>
+  <br>
+  Movie Studio 17.o Platinum<br>
 
 ### Previous work
 
