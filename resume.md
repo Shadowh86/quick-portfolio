@@ -11,7 +11,9 @@
   <br>
   -HTML &#9733;&#9733;&#9733;
   <br>
+  <br>
   <b>Software</b>
+  <br>
   <br>
   -Unity Engine &#9733;&#9733;&#9733;
   <br>
@@ -20,6 +22,7 @@
   -Fuse &#9733;&#9733;
   <br>
   -Mixamo&#9733;&#9733;&#9733;
+  <br>
   <br>
   <b>Video Editing</b>
   <br>
