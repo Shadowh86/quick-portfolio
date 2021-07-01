@@ -31,7 +31,7 @@ This game was made completely by me and most of the gameplay elements I have inc
  <img src="https://img.itch.zone/aW1hZ2UvOTYyNjIxLzYzODAzOTIuanBn/original/9DJu28.jpg"/>
  <br><br>
  This Endless runner game was made for a game jam that was themed "Save yourself not the world", in Unity course in Novska, Croatia, over the period of 14 days.
- In this game you play as a woman that is running from the end of the world and you have a meter counter that tells you how far you have already run to survive.
+ In this game you play as a woman who is running from the end of the world, with a meter counter that tells you how far you have already run to survive.
  For this game I was Team Leader and Level Designer.
  As team leader I have organized 2 people to program movement of main character as well as end game event.
  Also, as Level Designer I have put several prefabs that randomly generate in front of main character, using empty game objects. 
