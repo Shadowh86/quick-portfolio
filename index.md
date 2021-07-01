@@ -29,6 +29,7 @@ There are over 1000 lines of code in that game that generate random events that 
 <br>
 
 - [Ru(i)n The World](https://thedynamitepriest.itch.io/ruin-the-world)
+ <img src="https://img.itch.zone/aW1hZ2UvOTYyNjIxLzYzODAzOTIuanBn/original/9DJu28.jpg"/>
  <br><br>
  This Endless runner game was made in game jam with theme "Save yourself not the world" in Unity course in Novska, Croatia in period of 14 days.
  Here you play as woman that is running from end of the world and you have meter counter that tells you how far have you run to survive.
@@ -37,6 +38,7 @@ There are over 1000 lines of code in that game that generate random events that 
  And as Level Designer I have put several prefabs that randomly generate infront of main character and the way I have done that is with empty game objects. 
  First game object was infront of the prefab and second one in the end of prefab and where last one ends, first empty game object instanciate in that position.<br>
 - [Fake World](https://thedynamitepriest.itch.io/fake-world)
+ <img src="https://img.itch.zone/aW1hZ2UvOTU4MTQyLzU0MzMyODIuanBn/original/f4i%2BWk.jpg"/>
  <br><br>
  This game was made as part of game jam with theme "Glitch" in Unity Engine in Novska, Croatia in period of 3 days.
  In this project I was Team Leader and my job was to coordinate programmer and level designer to make this puzzle game with many glitches and to use glitches on different    levels.<br>
