@@ -4,7 +4,7 @@
 
 <b>Programming</b>
   <br>
-  -Unity C#<p>&#9733</p>
+  -Unity C#<p>&#9733;</p>
   <br>
   -HTML
   <br>
