@@ -4,7 +4,6 @@
 
 ### Finished Projects 
 
-[Testing video](https://fb.watch/6xo1tmaKir/)
 
 [Aztec Temple Run](https://play.google.com/store/apps/details?id=com.PISMOInkubator.AzteTempleRun)
 <img src="https://play-lh.googleusercontent.com/wXR6NdrvJY1szZFkE9bn1vt16G6rgKgDIU14gOGAxM_2YnSpTZbIEir_aYjJcP97MCuG=w1536-h722-rw"/>
