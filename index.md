@@ -21,6 +21,7 @@ As a programmer in this project I have set the movements of the figurines in the
 <br><br>
 Medieval Clicker is a clicker game that was made for PC in Unity Game Engine. The game was developed over the period of 5 days.
 This game was made completely by me and most of the gameplay elements I have incorporated in the game are random events using Coroutine, using over 1000 lines of code.
+Code can be accesed <a href="https://github.com/Shadowh86/Medieval-Clicker"> on my github</a>
 <br>
 
 ---------------
