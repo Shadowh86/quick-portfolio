@@ -54,4 +54,4 @@ https://manpower.hr/news/new-post-1623069771">Manpower</a> and <a href="https://
 ---
 
 ## Diploma
-<img scr="images/Unity_Diploma.jpg?raw=true"/>
+<img src="images/Unity_Diploma.jpg?raw=true"/>
