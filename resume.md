@@ -51,3 +51,7 @@ Learning Unity C# programming language, basic level design, game design, buisnes
 First place in VR education game jam that lasted 48 hours. It was organized by <a href="
 https://manpower.hr/news/new-post-1623069771">Manpower</a> and <a href="https://game-chuck.com/">Gamechuck</a>
 
+---
+
+## Diploma
+<img scr="images/Unity_Diploma.jpg?raw=true"/>
