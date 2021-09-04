@@ -49,8 +49,8 @@ Code can be accesed <a href="https://github.com/Shadowh86/Medieval-Clicker"> on 
 ### Accomplishments
 
 <br>
-[Forklift Certificate VR](https://github.com/Shadowh86/shadowh86.github.io/blob/master/images/VR_Hakathlon_FIrstPlacejpg.jpg?raw=true)
-<img src="https://scontent.fhrk1-1.fna.fbcdn.net/v/t1.6435-9/202407143_4640067209340261_7310909569210768718_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=973b4a&_nc_ohc=X0oHykw8L9oAX8bvDG6&_nc_ht=scontent.fhrk1-1.fna&oh=5dba5c60601eaa8f06f9daacb7d92cb2&oe=60F8AD57">
+[Forklift Certificate VR](https://www.facebook.com/gamechuckdev/posts/4640062259340756)
+<img src="images/VR_Hakathlon_FIrstPlacejpg.jpg?raw=true"/>
 <br><br>
 This VR Education was made as a part of VR Hackathon game jam with the theme "VR Education in construction, logistic and tourism", organized by <a href="
 https://manpower.hr/news/new-post-1623069771">Manpower</a> and <a href="https://game-chuck.com/">Gamechuck</a>. The task of this game jam was to finish the project in 48 hours since that was how long the game jam lasted. Our project was an education simulator for obtaning a forklift operator certificate. For this project we worked on programming the input system for steering wheel logitech G29 and VR glasses in Unity Game engine.
