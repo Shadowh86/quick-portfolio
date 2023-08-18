@@ -4,7 +4,7 @@
 
 ### Finished Projects 
 
-[Earth Rising][https://store.steampowered.com/app/1084440/Earth_Rising/]
+[Earth Rising](https://store.steampowered.com/app/1084440/Earth_Rising/)
 
 <br><br>
 Earth Rising is a simulation where you build your own satellite to explore the solar system.
