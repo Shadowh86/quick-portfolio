@@ -5,7 +5,8 @@
 ### Finished Projects 
 
 [Geocaching]
-I have been outsourced to create application so children can find different objects using a tablet on which this application was
+<br>
+I have been outsourced to create an application so children can find different objects using a tablet on which this application was
 and the outside world so children can get around in the real world. 
 On this application I used a QR code reader and from Unity asset store Online Maps v3.
 I have made this project so the admin can add locations and users can see where locations are, soon as a user finds the location,
