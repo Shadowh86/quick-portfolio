@@ -6,7 +6,7 @@
 
 [Earth Rising](https://store.steampowered.com/app/1084440/Earth_Rising/)
 
-<br><br>
+<br>
 Earth Rising is a simulation where you build your own satellite to explore the solar system.
 You have missions where you need to build certain cubesats for space exploration.
 I have worked on this project for a company that hired me to make this game for VR and PC versions.
