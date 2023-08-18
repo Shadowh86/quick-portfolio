@@ -4,6 +4,15 @@
 
 ### Finished Projects 
 
+[Earth Rising][https://store.steampowered.com/app/1084440/Earth_Rising/]
+
+<br><br>
+Earth Rising is a simulation where you build your own satellite to explore the solar system.
+You have missions where you need to build certain cubesats for space exploration.
+I have worked on this project for a company that hired me to make this game for VR and PC versions.
+VR and PC versions are published on steam.
+
+
 
 [Aztec Temple Run](https://play.google.com/store/apps/details?id=com.PISMOInkubator.AzteTempleRun)
 <img src="https://play-lh.googleusercontent.com/wXR6NdrvJY1szZFkE9bn1vt16G6rgKgDIU14gOGAxM_2YnSpTZbIEir_aYjJcP97MCuG=w1536-h722-rw"/>
