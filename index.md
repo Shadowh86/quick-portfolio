@@ -4,7 +4,7 @@
 
 ### Finished Projects 
 
-[Geocaching]
+Geocaching
 <br>
 I have been outsourced to create an application so children can find different objects using a tablet on which this application was
 and the outside world so children can get around in the real world. 
